@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f898d990-076b-4889-840e-399034c12bef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Rubik's Cube Take 3" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/TriggerContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/SimpleRotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/GameDataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/Widgets/TimerWidgetController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/a9/6549db3e/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/Widgets/StartGameWidgetController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/0c/9750c284/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/CubesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/GameLogic/MagicCubeLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C700E1B-63BB-4651-92EF-06E5E1F2254D/22/3d7daaa1/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/MagicCubeUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/GameEventsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C700E1B-63BB-4651-92EF-06E5E1F2254D/43/9268e7ae/TextElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/TriggerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C700E1B-63BB-4651-92EF-06E5E1F2254D/cb/46b289b5/VisualElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/GameUIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C700E1B-63BB-4651-92EF-06E5E1F2254D/e8/242ff4d8/Focusable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Controllers/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7D971063-3068-4ADD-86D0-80ECF65BFE69/3c/c2dff0f8/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/f7/88b3f2ae/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/MenuUIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C700E1B-63BB-4651-92EF-06E5E1F2254D/58/dda9e8a0/CallbackEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/CubeInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Controllers/MagicCubeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0079A30F-96A0-4734-8857-E1CECC6C638A/5a/50403ddf/LinkedListNode`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/ServiceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Constants/GameEventConstants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/PivotController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/LogManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Constants/Consts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/CommandManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/CubeSelectionReference.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/SelectionTriggerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9EA62781-01BB-4294-A70D-F3010289B82D/c9/7758057f/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/RubiksApplication.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/RubiksController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/RubiksView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/ViewManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/ViewManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/MagicCubeApplication.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Views/CubeView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Views/UIView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/PivotController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/LogManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/RubiksModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/ServiceLocator.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/CommandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/Cubeinfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Controllers/CubeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Views/MagicCubeView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/MagicCubeModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/M-V-C/MagicCubeLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/GameEventsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Views/UIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Constants/GameEventConstants.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/StartGameWidgetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/ServiceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/ConfirmDialougeWidgetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/CubeSelectionReference.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/LogManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/UIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/Widgets/TimerWidgetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/CubeInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/MagicCubeUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/SelectionTriggerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Constants/Consts.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/TriggerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/TriggerContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Controllers/MagicCubeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/Widgets/StartGameWidgetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/GameDataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/CommandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Managers/CubesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Component/SimpleRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/MenuUIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/GameLogic/MagicCubeLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/Controllers/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AllAssets/Scripts/UI/GameUIController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PtTPs11aB7MT8Iatp1A3BByZHx" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="16436">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="16436" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f898d990-076b-4889-840e-399034c12bef" name="Default Changelist" comment="" />
+      <created>1566692372841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566692372841</updated>
+      <workItem from="1566692377746" duration="287000" />
+      <workItem from="1566693700849" duration="14970000" />
+      <workItem from="1566753753891" duration="36653000" />
+      <workItem from="1566831019726" duration="2068000" />
+      <workItem from="1566867359103" duration="1841000" />
+      <workItem from="1566956075506" duration="3760000" />
+      <workItem from="1566960183235" duration="987000" />
+      <workItem from="1566965692543" duration="7814000" />
+      <workItem from="1567004868049" duration="18312000" />
+      <workItem from="1567083722834" duration="26730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="173" width="776" height="512" key="#xdebugger.evaluate" />
+    <state x="330" y="173" width="776" height="512" key="#xdebugger.evaluate/3840.2160" />
+    <state width="696" height="570" key="DebuggerActiveHint" />
+    <state width="696" height="570" key="DebuggerActiveHint/3840.2160" />
+    <state x="656" y="139" key="FileChooserDialogImpl" />
+    <state x="656" y="139" key="FileChooserDialogImpl/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.1.bottom" />
+    <state width="1493" height="235" key="GridCell.Tab.1.bottom/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.1.center" />
+    <state width="1493" height="235" key="GridCell.Tab.1.center/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.1.left" />
+    <state width="1493" height="235" key="GridCell.Tab.1.left/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.1.right" />
+    <state width="1493" height="235" key="GridCell.Tab.1.right/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.2.bottom" />
+    <state width="1493" height="235" key="GridCell.Tab.2.bottom/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.2.center" />
+    <state width="1493" height="235" key="GridCell.Tab.2.center/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.2.left" />
+    <state width="1493" height="235" key="GridCell.Tab.2.left/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.2.right" />
+    <state width="1493" height="235" key="GridCell.Tab.2.right/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.3.bottom" />
+    <state width="1493" height="235" key="GridCell.Tab.3.bottom/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.3.center" />
+    <state width="1493" height="235" key="GridCell.Tab.3.center/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.3.left" />
+    <state width="1493" height="235" key="GridCell.Tab.3.left/3840.2160" />
+    <state width="1493" height="235" key="GridCell.Tab.3.right" />
+    <state width="1493" height="235" key="GridCell.Tab.3.right/3840.2160" />
+    <state x="603" y="128" key="RiderGenerateDialog" />
+    <state x="603" y="128" key="RiderGenerateDialog/3840.2160" />
+    <state x="263" y="55" key="SettingsEditor" />
+    <state x="263" y="55" key="SettingsEditor/3840.2160" />
+    <state x="449" y="82" width="639" height="660" key="find.popup" />
+    <state x="449" y="82" width="639" height="660" key="find.popup/3840.2160" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/3840.2160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
